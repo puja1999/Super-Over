@@ -10,7 +10,7 @@ var team1 = {
 
 //team2 details
 var team2 = {
-  name: "MI",
+  name: "SRH",
   runs: [],
   score: 0,
 };
